@@ -1,3 +1,5 @@
+# This is a rock paper scissors game. Old version
+
 import random
 
 options = ("rock", "paper", "scissors")
